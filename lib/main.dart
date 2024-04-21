@@ -5,7 +5,6 @@ import 'package:Tatwir_price/qoshimcha/Pastavshik.dart';
 import 'package:Tatwir_price/qoshimcha/aralashSavdo.dart';
 import 'package:Tatwir_price/qoshimcha/bot.dart';
 import 'package:Tatwir_price/qoshimcha/ishlabChiqarish.dart';
-import 'package:Tatwir_price/qoshimcha/jami%20narxlar.dart';
 import 'package:Tatwir_price/qoshimcha/kilentgaSotishValyutasi.dart';
 import 'package:Tatwir_price/qoshimcha/savdoNarxTuri.dart';
 import 'package:Tatwir_price/qoshimcha/xodimKeldiKetdi.dart';
@@ -28,7 +27,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-//Comment salommmm
+//Comment  test AAAAAAA
 class MyHomePage extends StatefulWidget {
   const MyHomePage({Key? key});
 
@@ -64,7 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       style: TextStyle(color: Colors.white),
                     ),
                   ),
-                  pinned: true, // Ensures that the app bar remains visible while scrolling
+                  pinned: true,
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.vertical(
                       bottom: Radius.circular(20), // Adjust the radius as needed
