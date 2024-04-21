@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Tatwir price',
+      title: 'Tatwir priceAAA11',
       home: MyHomePage(),
     );
   }
