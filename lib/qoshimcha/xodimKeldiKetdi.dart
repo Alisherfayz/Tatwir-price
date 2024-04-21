@@ -40,7 +40,7 @@ class _kilentgaSotishValyutasiState extends State<xodimKeldiKetdi> {
         padding: const EdgeInsets.only(right: 10,left: 10,top: 20),
         child: Container(
           decoration: BoxDecoration(
-///Comment test
+
               gradient: LinearGradient(
                 begin: Alignment.centerLeft,
                 end: Alignment.centerRight,
