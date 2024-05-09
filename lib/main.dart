@@ -17,7 +17,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key});
-//salommmaa
+
   @override
   Widget build(BuildContext context) {
     return const GetMaterialApp(
@@ -52,9 +52,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
         ),
           child:   CustomScrollView(
-
               slivers: [
-
                 SliverAppBar.large(
                   backgroundColor: Color(0xFF003B80),
                   title: Center(
